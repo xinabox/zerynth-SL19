@@ -1,4 +1,1 @@
-sl19
-====
-
-[Project description goes here]
+# zerynth-sl19

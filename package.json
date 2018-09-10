@@ -1,0 +1,21 @@
+{
+    "fullname": "lib.xinabox.sl19",
+    "git_pointer": "github://xinabox/zerynth-SL19",
+    "title": "XinaBox SL19",
+    "description": "Module for XinaBox SL19 object temperature sensor",
+    "keywords": [
+        "temperature",
+        "sensor",
+        "I2C",
+        "xinabox"
+        "MLX90614"
+    ],
+    "info": {
+        "chip_manufacturer": "XinaBox",
+        "chip_name": "SL19",
+        "name": "Object Temperature Sensor",
+        "type": "Sensor"
+    }, 
+    "repo": "official",
+    "version": "r2.1.2"
+}
