@@ -1,4 +1,4 @@
 #XinaBox
-    #SL19
+    ##SL19
         temperature_measurement
 
